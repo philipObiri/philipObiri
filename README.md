@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TekNotify<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Django and Django REST Framework<br>💬 Ask me about anything mobile and web applications<br>⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉
+🔭A Fullstack Developer adept with Web and Mobile application Development <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Django and Django REST Framework<br>💬 Ask me about anything mobile and web applications<br>⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉
 
 
 ## 🌐 Socials:
@@ -11,13 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=philipObiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=philipObiri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ " Developer Quote"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=philipObiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
