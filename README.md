@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭A Fullstack Developer adept with Web and Mobile application Development <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Django and Django REST Framework<br>💬 Ask me about anything mobile and web applications<br>⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉
+🔭I'm a Fullstack Developer <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Django and Django REST Framework<br>💬 Ask me about anything mobile and web applications<br>⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉
 
 
 ## 🌐 Socials:
