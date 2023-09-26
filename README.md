@@ -1,8 +1,8 @@
-I'm a results-driven and tech-savvy software developer with years of experience in full-stack web development and product design. <br>
-I'm passionate about building scalable applications with great user experiences.
-I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
-My development experience involves building solutions using multiple backend and frontend technologies.<br>
-My goal is to stay up-to-date with trends in technology and deliver complete, high-quality solutions on time.<br>
+ I'm a results-driven and tech-savvy software developer with years of experience in full-stack web development and product design. <br>
+💖 I'm passionate about building scalable applications with great user experiences.<br>
+💪🏼 I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
+💻 My development experience involves building solutions using multiple backend and frontend technologies.<br>
+🎯 My goal is to stay up-to-date with trends in technology and deliver complete, high-quality solutions on time.<br>
 ⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉.
 
 ---
@@ -59,8 +59,6 @@ Package Managers:
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 
 
-
-
  Mobile:
 >  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -76,24 +74,11 @@ Data Science and Machine Learning:
 
 
 ### Other Tools:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philipObiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince-appiah&theme=react&hide_border=true&ring=DD2727&stroke=DDC3C2)](https://git.io/streak-stats)
 ### ✍️ " Developer Quote"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
