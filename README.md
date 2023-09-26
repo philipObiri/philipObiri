@@ -1,4 +1,4 @@
- I'm a results-driven and tech-savvy software developer with years of experience in full-stack web development and product design. <br>
+I'm a results-driven software developer and tech-savvy with years of experience in full-stack web development and product design. <br>
 💖 I'm passionate about building scalable applications with great user experiences.<br>
 💪🏼 I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
 💻 My development experience involves building solutions using multiple backend and frontend technologies.<br>
@@ -7,7 +7,7 @@
 
 ---
 - 📝 Learning React/Nextjs with Express 
-- 🔦 Exploring Single Paged Applications and Machine Learning
+- 🔦 Exploring Single Page Applications and Machine Learning
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
 - 💬  Ask me about UI Design, Frontend Development, and Backend Development.
 
