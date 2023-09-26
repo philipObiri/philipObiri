@@ -87,10 +87,13 @@ Data Science and Machine Learning:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=philipObiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince-appiah&theme=react&hide_border=true&ring=DD2727&stroke=DDC3C2)](https://git.io/streak-stats)
 ### ✍️ " Developer Quote"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
