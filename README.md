@@ -6,8 +6,8 @@
 ⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉.
 
 ---
-- 📝 Learning React/Nextjs with Express and
-- 🔦 Exploring Machine Learning and Artificial Intelligence
+- 📝 Learning React/Nextjs with Express 
+- 🔦 Exploring Single Paged Applications and Machine Learning
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
 - 💬  Ask me about UI Design, Frontend Development, and Backend Development.
 
