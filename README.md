@@ -9,7 +9,7 @@ I'm a results-driven software developer and tech-savvy with years of experience 
 - 📝 Learning React/Nextjs with Express 
 - 🔦 Exploring Single Page Applications and Machine Learning
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
-- 💬  Ask me about UI Design, Frontend Development, and Backend Development.
+- 💬  Ask me about Frontend Development, and Backend Development.
 
 📫 How to reach me: 
 
