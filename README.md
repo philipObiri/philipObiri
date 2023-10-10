@@ -6,7 +6,7 @@ I'm a results-driven software developer and tech-savvy with years of experience 
 ⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉.
 
 ---
-- 📝 Learning React/Nextjs with Express 
+- 📝 Learning React/Nextjs 
 - 🔦 Exploring Single Page Applications and Machine Learning
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
 - 💬  Ask me about Frontend Development, and Backend Development.
@@ -32,8 +32,6 @@ Backend :
 > ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 Frontend : 
@@ -59,18 +57,11 @@ Package Managers:
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 
 
- Mobile:
->  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-
 Design:
 > ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-Data Science and Machine Learning:
-> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 ### Other Tools:
@@ -82,6 +73,5 @@ Data Science and Machine Learning:
 ### ✍️ " Developer Quote"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=philipObiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
