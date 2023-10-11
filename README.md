@@ -56,7 +56,6 @@ I'm a results-driven software developer and tech-savvy with years of experience 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philipObiri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philipObiri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philipObiri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
