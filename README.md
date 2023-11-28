@@ -1,4 +1,4 @@
-I'm a results-driven software developer and tech-savvy with experience in web and mobile app development. <br>
+I'm a results-driven software developer and tech-savvy with 3 over years of experience in software development. <br>
 💖 I'm passionate about building scalable applications with great user experiences.<br>
 💪🏼 I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
 💻 My development experience involves building solutions using multiple backend and frontend technologies.<br>
