@@ -1,15 +1,15 @@
-I'm a results-driven software developer and tech-savvy with 3 over years of experience in software development. <br>
+I'm a results-driven software developer and tech-savvy with over 3 years of experience in software development. <br>
 💖 I'm passionate about building scalable applications with great user experiences.<br>
-💪🏼 I excel at working with key stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
+💪🏼 I excel at working with key team members to identify and solve problems, taking ownership of development and challenges from start to finish.<br>
 💻 My development experience involves building solutions using multiple backend and frontend technologies.<br>
 🎯 My goal is to stay up-to-date with trends in technology and deliver complete, high-quality solutions on time.<br>
-⚡ Fun fact :  CTRL + C , CTRL +V and CTRL + Z has saved more men than Batman😉.
+⚡ Fun fact: CTRL + C, CTRL + V, and CTRL + Z have saved more men than Batman😉.
 
 ---
 - 📝 Learning Nextjs 14
 - 🔦 Exploring Single Page Applications and Machine Learning
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
-- 💬  Ask me about Frontend Development, and Backend Development.
+- 💬  Ask me about frontend development, and backend Development.
 
 📫 How to reach me: 
 
