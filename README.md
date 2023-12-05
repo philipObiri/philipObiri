@@ -24,24 +24,33 @@ I'm a results-driven software developer and tech-savvy with over 3 years of expe
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 
+#### TOOLS & TECH STACK
+
+  Backend:
+ 
+ > ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+   ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+   ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  
 
 
-### Libraries and Frameworks:
+  
+  Frontend:
+ > ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+   ![](https://img.shields.io/badge/-Next_JS-61DAFB?style=for-the-badge&logo=nextjs&logoColor=white)
+   ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+   ![](https://img.shields.io/badge/-Recoil_JS-61DAFB?style=for-the-badge&logo=recoiljs&logoColor=white)
+   ![](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+   ![](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)
+   ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  
 
-### Frontend Development
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-- ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-
-
-
-### Backend Development
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
+   
+   Package Managers:
+ > ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
+   ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+   
 
 
 
@@ -51,26 +60,6 @@ I'm a results-driven software developer and tech-savvy with over 3 years of expe
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-
-
-### Design:
-- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
-
-
-### Code Version Control:
-- ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-
-
-### Other Tools:
-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
