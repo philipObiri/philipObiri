@@ -6,8 +6,7 @@ I'm a results-driven software developer and tech-savvy with over 3 years of expe
 ⚡ Fun fact: CTRL + C, CTRL + V, and CTRL + Z have saved more men than Batman😉.
 
 ---
-- 📝 Learning Nextjs 14
-- 🔦 Exploring Single Page Applications and Machine Learning
+
 - 👯  I’m looking to collaborate on open-source projects and weird ideas.
 - 💬  Ask me about frontend development, and backend Development.
 
