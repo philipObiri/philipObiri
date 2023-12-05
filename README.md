@@ -38,11 +38,7 @@ I'm a results-driven software developer and tech-savvy with over 3 years of expe
   
   Frontend:
  > ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-   ![](https://img.shields.io/badge/-Next_JS-61DAFB?style=for-the-badge&logo=nextjs&logoColor=white)
    ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-   ![](https://img.shields.io/badge/-Recoil_JS-61DAFB?style=for-the-badge&logo=recoiljs&logoColor=white)
-   ![](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-   ![](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)
    ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
 
@@ -71,7 +67,5 @@ I'm a results-driven software developer and tech-savvy with over 3 years of expe
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=philipObiri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
