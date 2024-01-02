@@ -1,6 +1,11 @@
 # Philip Obiri - Full Stack Software Engineer 👨‍💻
 
-I'm a results-driven software developer and tech-savvy professional with over 3 years of experience in software development. 💖 I'm passionate about building scalable applications with great user experiences. 💪🏼 I excel at working with key team members to identify and solve problems, taking ownership of development and challenges from start to finish. 💻 My development experience involves building solutions using multiple backend and frontend technologies. My goal is to stay up-to-date with trends in technology and deliver complete, high-quality solutions on time. ⚡ Fun fact: CTRL + C, CTRL + V, and CTRL + Z have saved more men than Batman😉.
+- I'm a results-driven software developer and tech-savvy professional with over 3 years of experience in software development.💖
+- I'm passionate about building scalable applications with great user experiences.💪🏼
+- I excel at working with key team members to identify and solve problems, taking ownership of development and challenges from start to finish. 💻
+- My development experience involves building solutions using multiple backend and frontend technologies.
+- My goal is to stay up-to-date with trends in technology and deliver complete, high-quality solutions on time.⚡
+- Fun fact: CTRL + C, CTRL + V, and CTRL + Z have saved more men than Batman😉.
 
 ## 👯 I’m looking to collaborate on open-source projects and weird ideas.
 ## 💬 Ask me about frontend development, and backend Development.
@@ -50,5 +55,4 @@ I'm a results-driven software developer and tech-savvy professional with over 3 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=philipObiri&color=blueviolet)
+
